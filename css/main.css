@@ -18,6 +18,14 @@ nav {
     top: 0;
 }
 
+nav ul{
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 header {
     text-align: center;
 }
