@@ -1,9 +1,10 @@
-body{
+body {
     width: 100wh;
     height: 100vh;
     color: #fff;
     font-size: 24pt;
-    background: linear-gradient(0deg,red,yellow);
+    background: linear-gradient(0deg,#fdb2d7,#ecb7bf);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    font-family: Didot, serif;
 }
