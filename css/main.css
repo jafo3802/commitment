@@ -6,7 +6,7 @@ body {
     background: linear-gradient(0deg,#ce736f,#fdb2d7);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-family: Didot, serif;
+    font-family: 'Didot', serif;
 }
 
 strong {
@@ -26,6 +26,29 @@ nav ul{
     list-style: none;
 }
 
+nav li{
+    position: relative;
+    display: block;
+}
+
 header {
     text-align: center;
+}
+
+
+.sec-div{
+    margin: 12em 0em 12em 0em;
+    text-align: center;
+}
+
+#wrap {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+
+#scroll {
+    font size: 3em;
+    font-family: "Didot", serif;
+    margin: 3em 0em 0em 0em;
 }
