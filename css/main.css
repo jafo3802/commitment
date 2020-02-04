@@ -3,8 +3,12 @@ body {
     height: 100vh;
     color: #fff;
     font-size: 24pt;
-    background: linear-gradient(0deg,#fdb2d7,#ecb7bf);
+    background: linear-gradient(0deg,#ce736f,#fdb2d7);
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Didot, serif;
+}
+
+strong {
+    color:#52253d;
 }
