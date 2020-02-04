@@ -36,7 +36,7 @@ header {
 }
 
 
-.sec-div{
+.sec-div {
     margin: 12em 0em 12em 0em;
     text-align: center;
 }
@@ -48,7 +48,7 @@ header {
 }
 
 #scroll {
-    font size: 3em;
+    font-size: 3em;
     font-family: "Didot", serif;
     margin: 3em 0em 0em 0em;
 }
