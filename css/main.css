@@ -14,5 +14,10 @@ strong {
 }
 
 nav {
-    
+    position: fixed;
+    top: 0;
+}
+
+header {
+    text-align: center;
 }
